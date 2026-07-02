@@ -239,5 +239,4 @@ This project is licensed under the MIT License.
 ---
 
 ## 👩‍💻 Author
-d
-Developed by Karthikeyan 
+Developed by Karthikeyan D
