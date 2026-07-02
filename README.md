@@ -66,13 +66,7 @@ EmailSummariser/
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/yourusername/AI-Email-Assistant.git
-
-cd AI-Email-Assistant
-```
-
----
+install the python file (main1) and requirements file from the files folder
 
 ### 2. Install Python dependencies
 
